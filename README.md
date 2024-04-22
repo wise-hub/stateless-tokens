@@ -12,9 +12,9 @@
 ```bash
 Java
 
-JS CSRF Token: 1713761538271.Mx6rcI7E2s75Be4N.R5wPe1_OoLzStu3yYkse98lm0mAwqdxw1XnvGLLcTTw
+Java CSRF Token: 1713763127808.Mx6rcI7E2s75Be4N.R5wPe1_OoLzStu3yYkse98lm0mAwqdxw1XnvGLLcTTw
 Valid: true
-JS Login Token: bWloYWVsYQ.Mx6rcI7E2s75Be4N.hBKv2vroc3YEB-nGr8Lky8LtQGJy8M1q2eAMIrUA6ak
+Java Login Token: bWloYWVsYQ.Mx6rcI7E2s75Be4N.hBKv2vroc3YEB-nGr8Lky8LtQGJy8M1q2eAMIrUA6ak
 Valid: true
 
 ---------------------------
